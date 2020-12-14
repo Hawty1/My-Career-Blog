@@ -20,6 +20,19 @@
 >
 >Meanwhile I was working as a scaffolder to pay my bills and for living.
 >But the idea of working as a coder was getting louder and louder every day. so it 
->motivated me to buy more reading material. Also I had a friend who was already working  
->in the industry, he also recommended me some things I need to start learning everything  
+>motivated me to buy more reading material. Also I knew someone who was already working  
+>in the industry, he recommended me some things I needed to start to learning everything  
 >propperly. 
+>
+>In 2019 I had an accident, nothing to dramatic - jumped on someones shoulders during carneval in Wuppertal and  
+>felt onto the ground - I suffered an injury which stopped me from working physically for a couple of month.
+>Again I used the time to focus more on reading about coding and starting my own first projects.
+>
+>In December 2020 I had the special opportunity to join the DCI - Digital Career Institute.
+>They provide a yearly course on how to get into the industry. Due to corona it's all online in Webcam-Sessions.
+>
+
+> #### Use of this repository.
+> I want several md files listed by topic - In those i want to run a learning blog where I can update things I learned related to the topic.
+> more ideas will follow.
+>
