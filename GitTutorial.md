@@ -27,9 +27,9 @@ Of course we doing this by Terminal commands. Since we are already on GitHub we 
 >Now our current directory is initialized as our repository and will be able to work with I just as we can on our GitHub Website. 
 >##### 2. Create a readme file and push it to our _master branch_  
 >For creating a file I will simply use our touch command.
-><br>
->touch readme.md
-><br>
+
+    touch readme.md
+>
 >The file is now created, but not really pushed. We need to actually add it to the branch we are working on. Since we dont have created a new branch at the moment, we should be still in our master branch by default. So let's push (or add) our file to our current branch (master branch).
 >
 >git add readme.md
