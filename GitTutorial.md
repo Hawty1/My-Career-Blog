@@ -1,5 +1,5 @@
 
->#### Lets get in touch with Git
+## Lets get in touch with Git
 >
 >On my coding adventures I heard "Git" alot. As you can read my blog on GitHub right now, I even
 >decided to try it out myself. In my coding course today it really payed off because I already 
@@ -18,14 +18,17 @@
 >
 ##### Apply it to our Linux directory with the *_Git - Distributed Version Control System_*
 Of course we doing this by Terminal commands. Since we are already on GitHub we already know the structure how Git looks like. But in our Terminal or in our simple Linux directory, we dont have thit fancy user interface. Even though it still works exactly the same.
+<br>
+<br>
 
-
-#### Step by Step
-##### 1. Initialize the directory you want use as your _repository_
+# Creating a Repository
+### *1. Initialize the directory you want use as your _repository_*
 We can accomplish this with the command 
-<br>git init<br>
+       
+    git init
+
 Now our current directory is initialized as our repository and will be able to work with I just as we can on our GitHub Website. 
-##### 2. Create a readme file and push it to our _master branch_  
+### *2. Create a readme file and push it to our _master branch_* 
 For creating a file I will simply use our touch command.
 
     touch readme.md
@@ -34,7 +37,7 @@ The file is now created, but not really pushed. We need to actually add it to th
 
     git add readme.md
 
-##### 3. Commit the change that we added a file.
+### *3. _Commit_ the change that we added a file.*
 
 
 After adding our file we almost finished our first set up.
@@ -50,12 +53,14 @@ for. It takes 2 things: name, email. Type those commands with your actual Name a
     git config --global user.name "FIRST_NAME LAST_NAME"
     git config --global user.email username@example.com
 
-Now git knows who we are and let us commit our file. So try it again if you faced the error before.
+Now git knows who we are and let us commit our file. So try it again if you faced the error before.  
+*_CONGRATS!_ We have just created our first local repository where we can work on with the git system applied.*
 
-##### 3. Check Status
+<br>
+ 
+# Check Status
 
 Finish by checking your status, it will show which step might failed.
 
     git status
-
 
