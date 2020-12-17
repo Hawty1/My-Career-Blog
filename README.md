@@ -33,6 +33,6 @@
 >
 
 #### Use of this repository.
-> I want several md files listed by topic - In those i want to run a learning blog where I can update things I learned related to the topic.
-> more ideas will follow.
->
+ I want several md files listed by topic - In those i want to run a learning blog where I can update things I learned related to the topic.
+ more ideas will follow.
+
