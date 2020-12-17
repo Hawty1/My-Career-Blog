@@ -32,7 +32,7 @@
 >They provide a yearly course on how to get into the industry. Due to corona it's all online in Webcam-Sessions.
 >
 
-> #### Use of this repository.
-> I want several md files listed by topic - In those i want to run a learning blog where I can update things I learned related to the topic.
-> more ideas will follow.
->
+#### Use of this repository.
+ I want several md files listed by topic - In those i want to run a learning blog where I can update things I learned related to the topic.
+ more ideas will follow.
+
