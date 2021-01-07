@@ -68,18 +68,18 @@ Check your current working status with:
 ## The output should look like some of those:  
 1. Here we see untracked files. this will happen if we don't _add_ our changes to our current repository.   
 
-<img src="notaddedstatus.png" style="width:55%;height:25vw;margin-left:3.5em">  
+<img src="img/notaddedstatus.png" style="width:55%;height:25vw;margin-left:3.5em">  
 
 ___NOTE: Even if changes are already in the folder, they still have to be added to be tracked by git.___  
 
 2. Next one is the message if we have changes that where added, but not committed yet. 
 
-<img src="notcommitedstatus.png" style="width:65%;height:25%;">
+<img src="img/notcommitedstatus.png" style="width:65%;height:25%;">
 
 ___NOTE: Every change we add, also have to be commited afterwards.___
 
 3. As we can see now, because we _added_ any untracked files and _committed_ them to our _repository_, git status will tell us that everything is done.
 
-<img src="clearnstatus.png" style="width:65%;height:25%">
+<img src="img/clearnstatus.png" style="width:65%;height:25%">
 
 ___NOTE: every git status message ONLY checks the status for the _Branch_ you are currently working in.___
