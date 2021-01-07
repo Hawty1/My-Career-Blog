@@ -36,3 +36,6 @@
  I want several md files listed by topic - In those i want to run a learning blog where I can update things I learned related to the topic.
  more ideas will follow.
 
+### Javascript Tutorial
+A while ago I have started to write down all the lessons I learned with free-learning apps on paper. But I have to say that it helped me a lot to understand the syntax JS.
+I want to share the lessons I learned in this Blog to improve my coding skills. To challenge myself a bit more I will use another example codes as I have already written down. The structure should be in a new directory cause I probably need to separate it different topics.
